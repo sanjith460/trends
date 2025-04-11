@@ -90,7 +90,7 @@ img{
 	font-size: 30px;
 }
 .box{
-	margin:100px;
+	margin:50px;
 	display: flex;
 	flex-direction: row;
 	gap: 70px;
@@ -120,6 +120,7 @@ img{
 	flex-direction: column;
 	margin-top: 50px;
 	font-size: 35px;
+	width: auto;
 }
 .footer{
 	background: black;
@@ -172,7 +173,7 @@ img{
 
 
 
-@media (max-width:650px){
+@media (max-width:450px){
 	nav a{
 		display: none;
 	}
