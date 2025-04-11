@@ -75,6 +75,7 @@ img{
 	flex-direction: row;
 }
 .tex h3{
+	
 	margin: 30px;
 	margin-top: 80px;
 	font-size: 60px;
@@ -90,7 +91,7 @@ img{
 	font-size: 30px;
 }
 .box{
-	margin:50px;
+	margin:35px;
 	display: flex;
 	flex-direction: row;
 	gap: 70px;
@@ -196,4 +197,3 @@ img{
 		font-size: 30px;
 	}
 }
-
